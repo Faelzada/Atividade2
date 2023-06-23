@@ -10,21 +10,21 @@
     <body>
       <h1> Exercício 2 Lista </h1>
       <h2> Meus jogos favoritos </h2>
-      <ol>
+      <ol type="1"start>
         <li><u> Super Nintendo </u></li>
         </ol>
           <ul> 
           <li>    Super Mario Word </li>
           <li>    Mortal Kombat </li>
           </ul>
-      <ol>
+      <ol type="1"statat>
         <li><mark> Playstation </mark></li>
       </ol>
           <ul>
           <li>    God of war </li>
           <li>    The Last Of Us </li>
           </ul>
-      <ol>
+      <ol type="1">
       <li><strong> Xbox </strong></li>
       </ol>
             <ul> 
